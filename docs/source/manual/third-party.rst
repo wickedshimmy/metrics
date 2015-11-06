@@ -37,3 +37,4 @@ the many third-party libraries which extend Metrics:
 * `metrics-kafka <https://github.com/hengyunabc/metrics-kafka>`_ provides a reporter for Kafka
 * `metrics-zabbiz <https://github.com/hengyunabc/metrics-zabbix>`_ provides a reporter for Zabbix
 * `finagle-metrics <https://github.com/rlazoti/finagle-metrics>`_ provides a reporter for a finagle service.
+* `riemann-java-client <https://github.com/aphyr/riemann-java-client>`_ includes a reporter for sending metrics to `Riemann <https://riemann.io>`_
